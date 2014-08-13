@@ -1,0 +1,29 @@
+{
+  "name": "munday2",
+  "version": "0.0.0",
+  "description": "Munday Chatapp",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ongzexuan/munday"
+  },
+  "keywords": [
+    "MUN",
+    "Model",
+    "United",
+    "Nations"
+  ],
+  "author": "Ong Ze Xuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ongzexuan/munday/issues"
+  },
+  "homepage": "https://github.com/ongzexuan/munday"
+}
